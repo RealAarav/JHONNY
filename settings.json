@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DIRECTION.mcsh.io",
-    "port": 14429,
+    "ip": "direction.mcsh.io",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
