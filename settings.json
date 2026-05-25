@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "BehenKaBhai",
     "password": "",
     "type": "offline"
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1800,
       "messages": [
-        "I'm a regular player",
+        "I'm jhoony",
         "Subscribe to jhonny!",
-        "I like to play Minecraft!"
+        "I like to play with jhoony!"
       ]
     },
     "chat-log": true,
