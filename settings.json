@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "BehenKaBhai",
+    "username": "BADE_SAAB",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "direction.mcsh.io",
-    "port": 25565,
+    "ip": "Hasmuth.mcsh.io",
+    "port": 10443,
     "version": "",
     "try-creative": false
   },
@@ -29,11 +29,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 1800,
+      "repeat-delay": 300,
       "messages": [
-        "I'm jhoony",
-        "Subscribe to jhonny!",
-        "I like to play with jhoony!"
+        "I'm Hamza",
+        "Subscribe to RequiemPlayz!",
+        "I like to play with Hasmuth!"
+        "Apki Mammi Meri Patni sorry sorry Mammi"
       ]
     },
     "chat-log": true,
