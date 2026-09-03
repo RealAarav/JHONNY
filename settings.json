@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Hasmuth.mcsh.io",
+    "ip": "hasmuth.mcsh.io",
     "port": 10443,
     "version": "",
     "try-creative": false
